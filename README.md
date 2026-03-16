@@ -1,0 +1,1 @@
+Este repositorio contiene ejemplos y ejercicios básicos del lenguaje de programación Python, con el objetivo de aprender y practicar sus principales características. Aquí se muestran conceptos fundamentales que ayudan a comprender cómo desarrollar programas de forma sencilla y eficiente.
